@@ -1,0 +1,9 @@
+Sales for each day of the week:
+Monday: $1000.00
+Tuesday: $2000.00
+Wednesday: $3000.00
+Thursday: $4000.00
+Friday: $5000.00
+Saturday: $6000.00
+Sunday: $7000.00
+Total sales for the week: $28000.00

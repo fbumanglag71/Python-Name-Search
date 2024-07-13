@@ -1,0 +1,8 @@
+Customer Information:
+Name: John Doe
+Address: 333 Street
+City: Santa Ana
+State: California
+Zip Code: 92626
+Age: 45
+
